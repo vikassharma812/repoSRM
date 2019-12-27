@@ -104,3 +104,4 @@ This command restores the most recently stashed files.
 Usage: git stash drop  
 This command discards the most recently stashed changeset.
 
+Thanks by Vikas
