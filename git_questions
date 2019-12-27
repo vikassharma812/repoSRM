@@ -1,0 +1,30 @@
+Assignment 1
+Initialize a directory as git repository.
+Create a blank files like a.txt, b.txt.
+Write "Hi Team SRM" into a.txt
+Write "This is VCS:Git" into b.txt
+Commit both files.
+Create a branch ninja
+Switch into branch ninja
+Update file b.txt with ""This is VCS:Git. This is ninja branch"
+Check for the difference made in the file.
+Commit your changes in ninja branch.
+Rename your file b.txt to c.txt
+Commit your changes.
+Remove file c.txt.
+Commit your changes.
+Create a file text.txt and add it.
+
+Assignment 2
+
+*Create a account on github.com.
+*Create a repository
+*Clone your repo into your machine.
+
+Assignment 3
+*Create muliple braches and push changes for each branch into remote repo.
+*Ignore any parrticular file from being commited.
+*Rename your remote name
+*You are working on a branch of a project. After modification, you thought that these modifications are quite less important but will work on later and for the time being, you should do some other implementation on the project using other branch. Is there any way to save your previous state of modification and get back it when required?
+*Try to list all the cases, where you can use checkout in GIT.
+
