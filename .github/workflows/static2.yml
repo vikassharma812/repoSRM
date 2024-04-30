@@ -8,12 +8,12 @@ jobs:
   name: Run hello.py
   runs-on: ubuntu-latest
  steps:
-  - name: checkout repository
+ - name: checkout repository
     uses: actions/checkout@v2
-  - name: set up python
+ - name: set up python
     uses: actions/setup-python@v2
     with:
      python-version:'3.12' #Use the python version you need
-  - name: Run justtestingcode.py
+ - name: Run justtestingcode.py
     run: python justtestingcode.py
     
